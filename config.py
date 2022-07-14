@@ -47,7 +47,7 @@ class Config:
     STREAM_URL=os.environ.get("STARTUP_STREAM", "https://www.youtube.com/watch?v=zcrUCvBD16k")
    
     #Database
-    DATABASE_URI=os.environ.get("DATABASE_URI", "mongodb+srv://abdul540:abdul540@#@cluster0.i1gao.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" )
+    DATABASE_URI=os.environ.get("DATABASE_URI", "mongodb+srv://Cloner:Cloner@cluster0.cgc6t.mongodb.net/?retryWrites=true&w=majority" )
     DATABASE_NAME=os.environ.get("DATABASE_NAME", "VCPlayerBot")
 
 
